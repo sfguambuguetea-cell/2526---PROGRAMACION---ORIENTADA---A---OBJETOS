@@ -20,7 +20,7 @@ def calcular_area_rectangulo(largo, ancho):
         float: área del rectángulo
     """
     area = largo * ancho
-    return area
+    return areas
 
 
 # Solicitar datos al usuario (tipo string)
